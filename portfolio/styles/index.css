@@ -1,0 +1,11 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+/* header styling */
+header{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
